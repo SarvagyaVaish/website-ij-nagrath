@@ -1,0 +1,3 @@
+Host			Type			Priority			Data
+@				CNAME			0					198.49.23.144
+www				CNAME			0					ext-sq.squarespace.com
